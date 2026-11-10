@@ -1,0 +1,1162 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "motori",
+        "confidence": 0.5573173786367809,
+        "startIndex": 0
+      },
+      {
+        "text": " lift",
+        "confidence": 0.6605985537117856,
+        "startIndex": 6
+      },
+      {
+        "text": "\n",
+        "confidence": 0.9109381416704107,
+        "startIndex": 11
+      },
+      {
+        "text": "motori",
+        "confidence": 0.9236290832758073,
+        "startIndex": 12
+      },
+      {
+        "text": " elettrici",
+        "confidence": 0.04818236052843077,
+        "startIndex": 18
+      },
+      {
+        "text": " italiani",
+        "confidence": 0.3453616049772484,
+        "startIndex": 28
+      },
+      {
+        "text": " dal",
+        "confidence": 0.5902029639657443,
+        "startIndex": 37
+      },
+      {
+        "text": " 1984",
+        "confidence": 0.6202907950463958,
+        "startIndex": 41
+      },
+      {
+        "text": "#",
+        "confidence": 0.9902912917236982,
+        "startIndex": 48
+      },
+      {
+        "text": " LA=2.5",
+        "confidence": 0.9891370276028018,
+        "startIndex": 49
+      },
+      {
+        "text": " IN",
+        "confidence": 0.9969211533931315,
+        "startIndex": 56
+      },
+      {
+        "text": "\n",
+        "confidence": 0.979224163082242,
+        "startIndex": 59
+      },
+      {
+        "text": "MCR-IMB3",
+        "confidence": 0.9962407672484992,
+        "startIndex": 60
+      },
+      {
+        "text": "Motori",
+        "confidence": 0.9998979706818657,
+        "startIndex": 70
+      },
+      {
+        "text": " asincroni",
+        "confidence": 0.9928003291518075,
+        "startIndex": 76
+      },
+      {
+        "text": " trifase",
+        "confidence": 0.9503691583904907,
+        "startIndex": 86
+      },
+      {
+        "text": " a",
+        "confidence": 0.9998916504977274,
+        "startIndex": 94
+      },
+      {
+        "text": " due",
+        "confidence": 0.9999190634421159,
+        "startIndex": 96
+      },
+      {
+        "text": " velocità",
+        "confidence": 0.9999955892755635,
+        "startIndex": 100
+      },
+      {
+        "text": "\n",
+        "confidence": 0.9998205030304157,
+        "startIndex": 109
+      },
+      {
+        "text": "Autoventilati",
+        "confidence": 0.9684055782163433,
+        "startIndex": 110
+      },
+      {
+        "text": " -",
+        "confidence": 0.9957737287998569,
+        "startIndex": 123
+      },
+      {
+        "text": " Poli",
+        "confidence": 0.999292755014804,
+        "startIndex": 125
+      },
+      {
+        "text": " 4/16",
+        "confidence": 0.9999832394782392,
+        "startIndex": 130
+      },
+      {
+        "text": " -",
+        "confidence": 0.879139175647866,
+        "startIndex": 135
+      },
+      {
+        "text": " Giri/1'",
+        "confidence": 0.9989764109727638,
+        "startIndex": 137
+      },
+      {
+        "text": " 1500/375",
+        "confidence": 0.9999287725069208,
+        "startIndex": 145
+      },
+      {
+        "text": " -",
+        "confidence": 0.998222298240772,
+        "startIndex": 154
+      },
+      {
+        "text": " 90/120",
+        "confidence": 0.9999894075251675,
+        "startIndex": 156
+      },
+      {
+        "text": " avv/ora",
+        "confidence": 0.9860431635869711,
+        "startIndex": 163
+      },
+      {
+        "text": "\n",
+        "confidence": 0.9999727018181879,
+        "startIndex": 171
+      },
+      {
+        "text": "Three-phase",
+        "confidence": 0.8415063571937117,
+        "startIndex": 172
+      },
+      {
+        "text": " two-speed",
+        "confidence": 0.9987963387856409,
+        "startIndex": 183
+      },
+      {
+        "text": " asynchronous-motors",
+        "confidence": 0.9787525952116621,
+        "startIndex": 193
+      },
+      {
+        "text": "\n",
+        "confidence": 0.9999680529300359,
+        "startIndex": 213
+      },
+      {
+        "text": "Self-ventilated",
+        "confidence": 0.9996732264916861,
+        "startIndex": 214
+      },
+      {
+        "text": " -",
+        "confidence": 0.9307012857233857,
+        "startIndex": 229
+      },
+      {
+        "text": " Poles",
+        "confidence": 0.9991483471100913,
+        "startIndex": 231
+      },
+      {
+        "text": " 4/16",
+        "confidence": 0.9998844757083409,
+        "startIndex": 237
+      },
+      {
+        "text": " -",
+        "confidence": 0.9989038813015169,
+        "startIndex": 242
+      },
+      {
+        "text": " rpm",
+        "confidence": 0.9989467044734,
+        "startIndex": 244
+      },
+      {
+        "text": " 1500/375",
+        "confidence": 0.9947402432029707,
+        "startIndex": 248
+      },
+      {
+        "text": " -",
+        "confidence": 0.9994905207678149,
+        "startIndex": 257
+      },
+      {
+        "text": " 90/120",
+        "confidence": 0.9999757844604892,
+        "startIndex": 259
+      },
+      {
+        "text": " starts/hour",
+        "confidence": 0.9990726839416936,
+        "startIndex": 266
+      },
+      {
+        "text": "SERIE",
+        "confidence": 0.9983425247619319,
+        "startIndex": 280
+      },
+      {
+        "text": " MCR",
+        "confidence": 0.9999440950675759,
+        "startIndex": 285
+      },
+      {
+        "text": " Motori",
+        "confidence": 0.9997968745823437,
+        "startIndex": 289
+      },
+      {
+        "text": " con",
+        "confidence": 0.999985933501902,
+        "startIndex": 296
+      },
+      {
+        "text": " corrente",
+        "confidence": 0.9999920130413283,
+        "startIndex": 300
+      },
+      {
+        "text": " di",
+        "confidence": 0.9999728210205924,
+        "startIndex": 309
+      },
+      {
+        "text": " avviamento",
+        "confidence": 0.7379010664412896,
+        "startIndex": 312
+      },
+      {
+        "text": " ridotta:",
+        "confidence": 0.9993467617935684,
+        "startIndex": 323
+      },
+      {
+        "text": " la=2.5",
+        "confidence": 0.9621557268635206,
+        "startIndex": 332
+      },
+      {
+        "text": " In",
+        "confidence": 0.9336492628128908,
+        "startIndex": 339
+      },
+      {
+        "text": " +10%",
+        "confidence": 0.9997470712589633,
+        "startIndex": 342
+      },
+      {
+        "text": "Line",
+        "confidence": 0.999853274898161,
+        "startIndex": 349
+      },
+      {
+        "text": " MCR",
+        "confidence": 0.999994993236811,
+        "startIndex": 353
+      },
+      {
+        "text": " Motors",
+        "confidence": 0.9993720424066977,
+        "startIndex": 357
+      },
+      {
+        "text": " with",
+        "confidence": 0.9999846222381212,
+        "startIndex": 364
+      },
+      {
+        "text": " limited",
+        "confidence": 0.9999157261341967,
+        "startIndex": 369
+      },
+      {
+        "text": " starting",
+        "confidence": 0.9863556960722418,
+        "startIndex": 377
+      },
+      {
+        "text": " current:",
+        "confidence": 0.999849355985621,
+        "startIndex": 386
+      },
+      {
+        "text": " la=2.5",
+        "confidence": 0.9987241466484855,
+        "startIndex": 395
+      },
+      {
+        "text": " In",
+        "confidence": 0.9959721142243262,
+        "startIndex": 402
+      },
+      {
+        "text": " +10%",
+        "confidence": 0.999937729731586,
+        "startIndex": 405
+      },
+      {
+        "text": "[tbl-0.html](tbl-0.html)",
+        "confidence": 0.9915044468001007,
+        "startIndex": 412
+      },
+      {
+        "text": "-",
+        "confidence": 0.9992126967437137,
+        "startIndex": 442
+      },
+      {
+        "text": "-",
+        "confidence": 0.9992126967437137,
+        "startIndex": 454
+      },
+      {
+        "text": "1",
+        "confidence": 0.9992126967437137,
+        "startIndex": 455
+      },
+      {
+        "text": "Nelle",
+        "confidence": 0.9985970894443709,
+        "startIndex": 464
+      },
+      {
+        "text": " tabelle:",
+        "confidence": 0.9999382666954924,
+        "startIndex": 469
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999294330789258,
+        "startIndex": 480
+      },
+      {
+        "text": " La",
+        "confidence": 0.9987933907079452,
+        "startIndex": 481
+      },
+      {
+        "text": " potenza",
+        "confidence": 0.9989600279845438,
+        "startIndex": 484
+      },
+      {
+        "text": " sincrona",
+        "confidence": 0.994536073000922,
+        "startIndex": 492
+      },
+      {
+        "text": " è",
+        "confidence": 0.9999532721416701,
+        "startIndex": 501
+      },
+      {
+        "text": " calcolata",
+        "confidence": 0.9993199674930194,
+        "startIndex": 503
+      },
+      {
+        "text": " come",
+        "confidence": 0.9999945164027223,
+        "startIndex": 513
+      },
+      {
+        "text": " prodotto",
+        "confidence": 0.9999786619922026,
+        "startIndex": 518
+      },
+      {
+        "text": " della",
+        "confidence": 0.9999485042370907,
+        "startIndex": 527
+      },
+      {
+        "text": " coppia",
+        "confidence": 0.9999198977744738,
+        "startIndex": 533
+      },
+      {
+        "text": " nominale",
+        "confidence": 0.9999657881048537,
+        "startIndex": 540
+      },
+      {
+        "text": " per",
+        "confidence": 0.9999967813595916,
+        "startIndex": 549
+      },
+      {
+        "text": " la",
+        "confidence": 0.9998495805121227,
+        "startIndex": 553
+      },
+      {
+        "text": " velocità",
+        "confidence": 0.9999855758836753,
+        "startIndex": 556
+      },
+      {
+        "text": " sincrona:",
+        "confidence": 0.9999434030173274,
+        "startIndex": 565
+      },
+      {
+        "text": " KWsin",
+        "confidence": 0.9353832198163962,
+        "startIndex": 575
+      },
+      {
+        "text": " =",
+        "confidence": 0.9996745453710596,
+        "startIndex": 581
+      },
+      {
+        "text": " Tn",
+        "confidence": 0.998706440203747,
+        "startIndex": 583
+      },
+      {
+        "text": " *n0",
+        "confidence": 0.9979721085745902,
+        "startIndex": 586
+      },
+      {
+        "text": " /",
+        "confidence": 0.9982312072790136,
+        "startIndex": 590
+      },
+      {
+        "text": " 9549.",
+        "confidence": 0.9985789720382336,
+        "startIndex": 592
+      },
+      {
+        "text": "\n",
+        "confidence": 0.9953229855834059,
+        "startIndex": 598
+      },
+      {
+        "text": "La",
+        "confidence": 0.6505152356776157,
+        "startIndex": 599
+      },
+      {
+        "text": " potenza",
+        "confidence": 0.9999020195665175,
+        "startIndex": 601
+      },
+      {
+        "text": " asincrona",
+        "confidence": 0.9973771810315563,
+        "startIndex": 609
+      },
+      {
+        "text": " è",
+        "confidence": 0.9999908209686689,
+        "startIndex": 619
+      },
+      {
+        "text": " calcolata",
+        "confidence": 0.9999876381645314,
+        "startIndex": 621
+      },
+      {
+        "text": " come",
+        "confidence": 0.9999753242852847,
+        "startIndex": 631
+      },
+      {
+        "text": " prodotto",
+        "confidence": 0.9999973774024795,
+        "startIndex": 636
+      },
+      {
+        "text": " della",
+        "confidence": 0.999874369188163,
+        "startIndex": 645
+      },
+      {
+        "text": " coppia",
+        "confidence": 0.9999556561097608,
+        "startIndex": 651
+      },
+      {
+        "text": " nominale",
+        "confidence": 0.9999096475223637,
+        "startIndex": 658
+      },
+      {
+        "text": " per",
+        "confidence": 0.9999949932351057,
+        "startIndex": 667
+      },
+      {
+        "text": " il",
+        "confidence": 0.9993334686090304,
+        "startIndex": 671
+      },
+      {
+        "text": " 92%",
+        "confidence": 0.9999532429850876,
+        "startIndex": 674
+      },
+      {
+        "text": " della",
+        "confidence": 0.9999162028949069,
+        "startIndex": 678
+      },
+      {
+        "text": " velocità",
+        "confidence": 0.9999908209686689,
+        "startIndex": 684
+      },
+      {
+        "text": " sincrona",
+        "confidence": 0.9999183353913825,
+        "startIndex": 693
+      },
+      {
+        "text": " (scorrimento",
+        "confidence": 0.9983196592548313,
+        "startIndex": 702
+      },
+      {
+        "text": " medio",
+        "confidence": 0.9999904633477849,
+        "startIndex": 715
+      },
+      {
+        "text": " 8%):",
+        "confidence": 0.9983606309373511,
+        "startIndex": 721
+      },
+      {
+        "text": " KWasin",
+        "confidence": 0.9574812437884721,
+        "startIndex": 726
+      },
+      {
+        "text": " =",
+        "confidence": 0.9999721058045592,
+        "startIndex": 733
+      },
+      {
+        "text": " Tn",
+        "confidence": 0.9999810063679112,
+        "startIndex": 735
+      },
+      {
+        "text": " *n0",
+        "confidence": 0.9997788040743402,
+        "startIndex": 738
+      },
+      {
+        "text": " *0.92",
+        "confidence": 0.9597076227025819,
+        "startIndex": 742
+      },
+      {
+        "text": " /",
+        "confidence": 0.9998899819317729,
+        "startIndex": 748
+      },
+      {
+        "text": " 9549.",
+        "confidence": 0.9997667419590066,
+        "startIndex": 750
+      },
+      {
+        "text": "\n",
+        "confidence": 0.999157781045965,
+        "startIndex": 756
+      },
+      {
+        "text": "-",
+        "confidence": 0.9981199154343112,
+        "startIndex": 757
+      },
+      {
+        "text": " J=",
+        "confidence": 0.9934406446586356,
+        "startIndex": 758
+      },
+      {
+        "text": " momento",
+        "confidence": 0.9996509578637115,
+        "startIndex": 761
+      },
+      {
+        "text": " d'inerzia",
+        "confidence": 0.996856966111356,
+        "startIndex": 769
+      },
+      {
+        "text": " =",
+        "confidence": 0.9997075459590958,
+        "startIndex": 779
+      },
+      {
+        "text": " GD",
+        "confidence": 0.9994924262156614,
+        "startIndex": 781
+      },
+      {
+        "text": " /4",
+        "confidence": 0.9253965681206079,
+        "startIndex": 784
+      },
+      {
+        "text": "\n",
+        "confidence": 0.999722200331212,
+        "startIndex": 787
+      },
+      {
+        "text": "-",
+        "confidence": 0.9998761568862077,
+        "startIndex": 788
+      },
+      {
+        "text": " I",
+        "confidence": 0.9989009075964488,
+        "startIndex": 789
+      },
+      {
+        "text": " pesi",
+        "confidence": 0.9990863845319252,
+        "startIndex": 791
+      },
+      {
+        "text": " sono",
+        "confidence": 0.9999918938339075,
+        "startIndex": 796
+      },
+      {
+        "text": " da",
+        "confidence": 0.9999144150525098,
+        "startIndex": 801
+      },
+      {
+        "text": " ritenersi",
+        "confidence": 0.999544747921331,
+        "startIndex": 804
+      },
+      {
+        "text": " indicativi",
+        "confidence": 0.999018797860856,
+        "startIndex": 814
+      },
+      {
+        "text": "In",
+        "confidence": 0.9999803308534772,
+        "startIndex": 827
+      },
+      {
+        "text": " the",
+        "confidence": 0.9999355119347216,
+        "startIndex": 829
+      },
+      {
+        "text": " tables:",
+        "confidence": 0.9999350800996786,
+        "startIndex": 833
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999799732399826,
+        "startIndex": 843
+      },
+      {
+        "text": " Synchronous",
+        "confidence": 0.9999811056970996,
+        "startIndex": 844
+      },
+      {
+        "text": " output",
+        "confidence": 0.9999809268774651,
+        "startIndex": 856
+      },
+      {
+        "text": " is",
+        "confidence": 0.9999967813595916,
+        "startIndex": 863
+      },
+      {
+        "text": " calculated",
+        "confidence": 0.9999448091463223,
+        "startIndex": 866
+      },
+      {
+        "text": " as",
+        "confidence": 0.9999891520726072,
+        "startIndex": 877
+      },
+      {
+        "text": " the",
+        "confidence": 0.9999412332751231,
+        "startIndex": 880
+      },
+      {
+        "text": " product",
+        "confidence": 0.9998823542714506,
+        "startIndex": 884
+      },
+      {
+        "text": " of",
+        "confidence": 0.9999595896822684,
+        "startIndex": 892
+      },
+      {
+        "text": " the",
+        "confidence": 0.9999456435183514,
+        "startIndex": 895
+      },
+      {
+        "text": " rated",
+        "confidence": 0.9999482658453687,
+        "startIndex": 899
+      },
+      {
+        "text": " torque",
+        "confidence": 0.9999896288992495,
+        "startIndex": 905
+      },
+      {
+        "text": " multiplied",
+        "confidence": 0.9999886752461923,
+        "startIndex": 912
+      },
+      {
+        "text": " by",
+        "confidence": 0.9999979734461775,
+        "startIndex": 923
+      },
+      {
+        "text": " the",
+        "confidence": 0.9999759203026506,
+        "startIndex": 926
+      },
+      {
+        "text": " synchronous",
+        "confidence": 0.9997468635567488,
+        "startIndex": 930
+      },
+      {
+        "text": " speed:",
+        "confidence": 0.9999316863982548,
+        "startIndex": 942
+      },
+      {
+        "text": " KWsyn",
+        "confidence": 0.9774890789352582,
+        "startIndex": 949
+      },
+      {
+        "text": " =",
+        "confidence": 0.9999384917900483,
+        "startIndex": 955
+      },
+      {
+        "text": " Tn",
+        "confidence": 0.9999916951556622,
+        "startIndex": 957
+      },
+      {
+        "text": " *n0",
+        "confidence": 0.9999546433525719,
+        "startIndex": 960
+      },
+      {
+        "text": " /",
+        "confidence": 0.99978344363029,
+        "startIndex": 964
+      },
+      {
+        "text": " 9549.",
+        "confidence": 0.9959760666532984,
+        "startIndex": 966
+      },
+      {
+        "text": "\n",
+        "confidence": 0.9762242379813916,
+        "startIndex": 972
+      },
+      {
+        "text": "Asynchronous",
+        "confidence": 0.9982679858171289,
+        "startIndex": 973
+      },
+      {
+        "text": " output",
+        "confidence": 0.9998470778750265,
+        "startIndex": 985
+      },
+      {
+        "text": " is",
+        "confidence": 0.99998879445232,
+        "startIndex": 992
+      },
+      {
+        "text": " calculated",
+        "confidence": 0.9999786619922026,
+        "startIndex": 995
+      },
+      {
+        "text": " as",
+        "confidence": 0.9999941587791524,
+        "startIndex": 1006
+      },
+      {
+        "text": " the",
+        "confidence": 0.9998847379031397,
+        "startIndex": 1009
+      },
+      {
+        "text": " product",
+        "confidence": 0.9999311017761935,
+        "startIndex": 1013
+      },
+      {
+        "text": " of",
+        "confidence": 0.9999808076722754,
+        "startIndex": 1021
+      },
+      {
+        "text": " the",
+        "confidence": 0.9999862911193472,
+        "startIndex": 1024
+      },
+      {
+        "text": " rated",
+        "confidence": 0.999838378333178,
+        "startIndex": 1028
+      },
+      {
+        "text": " torque",
+        "confidence": 0.9999963045256735,
+        "startIndex": 1034
+      },
+      {
+        "text": " multiplied",
+        "confidence": 0.9999917746265009,
+        "startIndex": 1041
+      },
+      {
+        "text": " by",
+        "confidence": 0.9999873639751784,
+        "startIndex": 1052
+      },
+      {
+        "text": " 92%",
+        "confidence": 0.9999613785449093,
+        "startIndex": 1055
+      },
+      {
+        "text": " of",
+        "confidence": 0.9999789004002659,
+        "startIndex": 1059
+      },
+      {
+        "text": " the",
+        "confidence": 0.9999914170043662,
+        "startIndex": 1062
+      },
+      {
+        "text": " synchronous",
+        "confidence": 0.9999475506632682,
+        "startIndex": 1066
+      },
+      {
+        "text": " speed",
+        "confidence": 0.9999605432821229,
+        "startIndex": 1078
+      },
+      {
+        "text": " (slip",
+        "confidence": 0.994972265189582,
+        "startIndex": 1084
+      },
+      {
+        "text": " average",
+        "confidence": 0.9998473162135255,
+        "startIndex": 1090
+      },
+      {
+        "text": " 8%):",
+        "confidence": 0.9998838582436107,
+        "startIndex": 1098
+      },
+      {
+        "text": " KWasyn",
+        "confidence": 0.9984766799738227,
+        "startIndex": 1103
+      },
+      {
+        "text": " =",
+        "confidence": 0.9999364654825127,
+        "startIndex": 1110
+      },
+      {
+        "text": " Tn",
+        "confidence": 0.999996900569414,
+        "startIndex": 1112
+      },
+      {
+        "text": " *n0",
+        "confidence": 0.9999148090566474,
+        "startIndex": 1115
+      },
+      {
+        "text": " *0.92",
+        "confidence": 0.9991718303183534,
+        "startIndex": 1119
+      },
+      {
+        "text": " /",
+        "confidence": 0.9998078715506594,
+        "startIndex": 1125
+      },
+      {
+        "text": " 9549.",
+        "confidence": 0.9998787808703044,
+        "startIndex": 1127
+      },
+      {
+        "text": "\n",
+        "confidence": 0.9994118098987305,
+        "startIndex": 1133
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999144150525098,
+        "startIndex": 1134
+      },
+      {
+        "text": " J=",
+        "confidence": 0.999614474361706,
+        "startIndex": 1135
+      },
+      {
+        "text": " inertia",
+        "confidence": 0.9997998876514271,
+        "startIndex": 1138
+      },
+      {
+        "text": " moment",
+        "confidence": 0.9999032114269176,
+        "startIndex": 1146
+      },
+      {
+        "text": " =",
+        "confidence": 0.999874250008407,
+        "startIndex": 1153
+      },
+      {
+        "text": " GD",
+        "confidence": 0.9993446594303591,
+        "startIndex": 1155
+      },
+      {
+        "text": " /4",
+        "confidence": 0.9926543010648815,
+        "startIndex": 1158
+      },
+      {
+        "text": "\n",
+        "confidence": 0.9999159645108857,
+        "startIndex": 1161
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999562521044904,
+        "startIndex": 1162
+      },
+      {
+        "text": " The",
+        "confidence": 0.9999384917900483,
+        "startIndex": 1163
+      },
+      {
+        "text": " weight",
+        "confidence": 0.9999429020102719,
+        "startIndex": 1167
+      },
+      {
+        "text": " have",
+        "confidence": 0.9954021164658367,
+        "startIndex": 1174
+      },
+      {
+        "text": " to",
+        "confidence": 0.9999873639751784,
+        "startIndex": 1179
+      },
+      {
+        "text": " be",
+        "confidence": 0.9999496962111042,
+        "startIndex": 1182
+      },
+      {
+        "text": " taken",
+        "confidence": 0.9999796156266157,
+        "startIndex": 1185
+      },
+      {
+        "text": " as",
+        "confidence": 0.9999761587100603,
+        "startIndex": 1191
+      },
+      {
+        "text": " approximate",
+        "confidence": 0.9991461183298563,
+        "startIndex": 1194
+      }
+    ],
+    "averagePageConfidenceScore": 0.976172024586358,
+    "minimumPageConfidenceScore": 0.04818236052843077
+  },
+  "blocks": [
+    {
+      "topLeftX": 12,
+      "topLeftY": 12,
+      "bottomRightX": 104,
+      "bottomRightY": 91,
+      "content": "motori lift\nmotori elettrici italiani dal 1984",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 144,
+      "topLeftY": 24,
+      "bottomRightX": 252,
+      "bottomRightY": 75,
+      "content": "# LA=2.5 IN\nMCR-IMB3",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 23,
+      "bottomRightX": 661,
+      "bottomRightY": 86,
+      "content": "Motori asincroni trifase a due velocità\nAutoventilati - Poli 4/16 - Giri/1' 1500/375 - 90/120 avv/ora\nThree-phase two-speed asynchronous-motors\nSelf-ventilated - Poles 4/16 - rpm 1500/375 - 90/120 starts/hour",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 135,
+      "bottomRightX": 296,
+      "bottomRightY": 171,
+      "content": "SERIE MCR Motori con corrente di avviamento ridotta: la=2.5 In +10%",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 182,
+      "bottomRightX": 260,
+      "bottomRightY": 211,
+      "content": "Line MCR Motors with limited starting current: la=2.5 In +10%",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 349,
+      "topLeftY": 132,
+      "bottomRightX": 683,
+      "bottomRightY": 245,
+      "content": "<table><tr><td>Poli<br/>Poles</td><td>4/16</td><td>Giri/1'<br/>R. P. M.</td><td>1500/375</td></tr><tr><td>Tensione<br/>Voltage</td><td>400V</td><td>Classe isolamento<br/>Insulation Class</td><td>F</td></tr><tr><td>Intermittenza<br/>Intermittence</td><td>40% (4 POLI/POLES)<br/>15% (16 POLI/POLES)</td><td>Forma costruttiva<br/>Mounting</td><td>IMB3, IMB9</td></tr><tr><td>Frequenza<br/>Frequency</td><td>50HZ</td><td>Protezione<br/>Enclosure</td><td>IP21</td></tr></table>",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": "tbl-0.html"
+    },
+    {
+      "topLeftX": 33,
+      "topLeftY": 245,
+      "bottomRightX": 681,
+      "bottomRightY": 586,
+      "content": "<table><thead><tr><th colspan=\"6\">90 AVV/ORA<br/>STARTS/HOUR</th><th colspan=\"6\">120 AVV/ORA<br/>STARTS/HOUR</th><th colspan=\"2\">IMB3 IMB9</th></tr><tr><th>Tipo</th><th>Coppia nomin.</th><th colspan=\"2\">Potenza nomin.</th><th>Corrente nomin.<br/>(400V)</th><th>Momento d'inerzia applicabile</th><th>Coppia nomin.</th><th colspan=\"2\">Potenza nomin.</th><th>Corrente nomin.<br/>(400V)</th><th>Momento d'inerzia applicabile</th><th>Momento d'inerzia del motore</th><th colspan=\"2\">Peso</th></tr><tr><th>Type</th><th>Rated torque</th><th colspan=\"2\">Rated output</th><th>Rated current<br/>(400V)</th><th>Permissible J</th><th>Rated torque</th><th colspan=\"2\">Rated torque</th><th>Rated current<br/>(400V)</th><th>Permissible J</th><th>Motor moment of inertia</th><th colspan=\"2\">Weight</th></tr><tr><th></th><th>Nm</th><th>KWasyn</th><th>KWsyn</th><th>A</th><th>Kgm2</th><th>Nm</th><th>KWasyn</th><th>KWsyn</th><th>A</th><th>Kgm2</th><th>Kgm2</th><th>Kg</th><th>Kg</th></tr></thead><tr><td>MCR160C.1</td><td>24</td><td>3,4</td><td>3,7</td><td>9,5</td><td>0,34</td><td>22</td><td>3,1</td><td>3,4</td><td>9,2</td><td>0,3</td><td>0,1</td><td>-</td><td>-</td></tr><tr><td>MCR160C.2</td><td>30</td><td>4</td><td>4,5</td><td>11,4</td><td>0,4</td><td>26</td><td>3,7</td><td>4</td><td>10,5</td><td>0,36</td><td>0,11</td><td>-</td><td>-</td></tr><tr><td>MCR160M.1</td><td>34</td><td>4,7</td><td>5,2</td><td>13,3</td><td>0,44</td><td>31</td><td>4,3</td><td>4,7</td><td>12,1</td><td>0,4</td><td>0,13</td><td>109</td><td>104</td></tr><tr><td>MCR160M.2</td><td>40</td><td>5,5</td><td>6</td><td>15,2</td><td>0,5</td><td>34</td><td>4,7</td><td>5,2</td><td>13,3</td><td>0,48</td><td>0,15</td><td>113</td><td>109</td></tr><tr><td>MCR160M.3</td><td>44</td><td>6</td><td>6,7</td><td>17</td><td>0,55</td><td>40</td><td>5,5</td><td>6</td><td>15,5</td><td>0,52</td><td>0,18</td><td>118</td><td>118</td></tr><tr><td>MCR160L.1</td><td>50</td><td>7</td><td>7,5</td><td>19</td><td>0,6</td><td>44</td><td>6</td><td>6,7</td><td>16,6</td><td>0,55</td><td>0,22</td><td>135,5</td><td>134</td></tr><tr><td>MCR160L.2</td><td>60</td><td>8</td><td>9</td><td>24</td><td>0,7</td><td>50</td><td>7</td><td>7,5</td><td>19,5</td><td>0,6</td><td>0,25</td><td>139,5</td><td>138</td></tr><tr><td>MCR200S.1</td><td>73</td><td>10</td><td>11</td><td>27,5</td><td>0,8</td><td>60</td><td>8</td><td>9</td><td>21</td><td>0,67</td><td>0,33</td><td>180</td><td>180</td></tr><tr><td>MCR200S.2</td><td>85</td><td>12</td><td>13</td><td>30,5</td><td>0,9</td><td>66</td><td>9</td><td>10</td><td>24</td><td>0,72</td><td>0,4</td><td>207</td><td>187</td></tr><tr><td>MCR200L.1R</td><td>92</td><td>13</td><td>14</td><td>34</td><td>1</td><td>73</td><td>10</td><td>11</td><td>26,5</td><td>0,82</td><td>0,48</td><td>239</td><td>211</td></tr><tr><td>MCR200L.1</td><td>105</td><td>15</td><td>16</td><td>38</td><td>1,1</td><td>85</td><td>12</td><td>13</td><td>31</td><td>0,9</td><td>0,48</td><td>239</td><td>211</td></tr><tr><td>MCR200L.2</td><td>112</td><td>16</td><td>17</td><td>41</td><td>1,2</td><td>92</td><td>13</td><td>14</td><td>33,5</td><td>1</td><td>0,55</td><td>254,5</td><td>227</td></tr></table>",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": "tbl-1.html"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 634,
+      "bottomRightX": 107,
+      "bottomRightY": 647,
+      "content": "Nelle tabelle:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 647,
+      "bottomRightX": 673,
+      "bottomRightY": 708,
+      "content": "- La potenza sincrona è calcolata come prodotto della coppia nominale per la velocità sincrona: KWsin = Tn *n0 / 9549.\nLa potenza asincrona è calcolata come prodotto della coppia nominale per il 92% della velocità sincrona (scorrimento medio 8%): KWasin = Tn *n0 *0.92 / 9549.\n- J= momento d'inerzia = GD /4\n- I pesi sono da ritenersi indicativi",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 720,
+      "bottomRightX": 106,
+      "bottomRightY": 733,
+      "content": "In the tables:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 733,
+      "bottomRightX": 619,
+      "bottomRightY": 795,
+      "content": "- Synchronous output is calculated as the product of the rated torque multiplied by the synchronous speed: KWsyn = Tn *n0 / 9549.\nAsynchronous output is calculated as the product of the rated torque multiplied by 92% of the synchronous speed (slip average 8%): KWasyn = Tn *n0 *0.92 / 9549.\n- J= inertia moment = GD /4\n- The weight have to be taken as approximate",
+      "confidenceScores": null,
+      "type": "list"
+    }
+  ]
+}

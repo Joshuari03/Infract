@@ -1,0 +1,597 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": {
+    "wordConfidenceScores": [
+      {
+        "text": "CHT",
+        "confidence": 0.9994194304136003,
+        "startIndex": 0
+      },
+      {
+        "text": " /",
+        "confidence": 0.9998219330388024,
+        "startIndex": 3
+      },
+      {
+        "text": " A-G-M",
+        "confidence": 0.9997036805297946,
+        "startIndex": 5
+      },
+      {
+        "text": "CHTMOTOR.COM",
+        "confidence": 0.8655918602507433,
+        "startIndex": 13
+      },
+      {
+        "text": "#",
+        "confidence": 0.7981861947029236,
+        "startIndex": 27
+      },
+      {
+        "text": " 2",
+        "confidence": 0.9985815714340723,
+        "startIndex": 28
+      },
+      {
+        "text": " poli",
+        "confidence": 0.9999218048193594,
+        "startIndex": 30
+      },
+      {
+        "text": " /",
+        "confidence": 0.9999386109847371,
+        "startIndex": 35
+      },
+      {
+        "text": " 2",
+        "confidence": 0.9999961853185368,
+        "startIndex": 37
+      },
+      {
+        "text": " poles",
+        "confidence": 0.9997586594489113,
+        "startIndex": 39
+      },
+      {
+        "text": "#",
+        "confidence": 0.9796676467868737,
+        "startIndex": 47
+      },
+      {
+        "text": " 2.9.",
+        "confidence": 0.9999246981551316,
+        "startIndex": 48
+      },
+      {
+        "text": " Monofase",
+        "confidence": 0.9988097943596648,
+        "startIndex": 53
+      },
+      {
+        "text": " CHT-M",
+        "confidence": 0.9987413193651516,
+        "startIndex": 62
+      },
+      {
+        "text": " 63...100",
+        "confidence": 0.9998863520361245,
+        "startIndex": 68
+      },
+      {
+        "text": "Tab.",
+        "confidence": 0.9999939501689108,
+        "startIndex": 79
+      },
+      {
+        "text": " 2.11",
+        "confidence": 0.9999357759150536,
+        "startIndex": 83
+      },
+      {
+        "text": " /",
+        "confidence": 0.9997224386253953,
+        "startIndex": 88
+      },
+      {
+        "text": " Tab.",
+        "confidence": 0.9999674808923374,
+        "startIndex": 90
+      },
+      {
+        "text": " 2.11",
+        "confidence": 0.999994587938708,
+        "startIndex": 95
+      },
+      {
+        "text": "m",
+        "confidence": 0.9994980948700394,
+        "startIndex": 111
+      },
+      {
+        "text": "-",
+        "confidence": 0.9607572633661208,
+        "startIndex": 118
+      },
+      {
+        "text": "#",
+        "confidence": 0.9999599472811979,
+        "startIndex": 128
+      },
+      {
+        "text": " 2.9.",
+        "confidence": 0.9999767317671383,
+        "startIndex": 129
+      },
+      {
+        "text": " Single",
+        "confidence": 0.9999388493741573,
+        "startIndex": 134
+      },
+      {
+        "text": " phase",
+        "confidence": 0.9999928474936721,
+        "startIndex": 141
+      },
+      {
+        "text": " CHT-M",
+        "confidence": 0.9999768346371538,
+        "startIndex": 147
+      },
+      {
+        "text": " 63...100",
+        "confidence": 0.9999958674383363,
+        "startIndex": 153
+      },
+      {
+        "text": "#",
+        "confidence": 0.9999985694905718,
+        "startIndex": 164
+      },
+      {
+        "text": " 4",
+        "confidence": 0.9999188283604293,
+        "startIndex": 165
+      },
+      {
+        "text": " poli",
+        "confidence": 0.9999907017622996,
+        "startIndex": 167
+      },
+      {
+        "text": " /",
+        "confidence": 0.9999977350285647,
+        "startIndex": 172
+      },
+      {
+        "text": " 4",
+        "confidence": 0.9999983310740674,
+        "startIndex": 174
+      },
+      {
+        "text": " poles",
+        "confidence": 0.9999960661089133,
+        "startIndex": 176
+      },
+      {
+        "text": "#",
+        "confidence": 0.9999997615814777,
+        "startIndex": 184
+      },
+      {
+        "text": " 2.10.",
+        "confidence": 0.9999997417132998,
+        "startIndex": 185
+      },
+      {
+        "text": " Monofase",
+        "confidence": 0.9999478427051334,
+        "startIndex": 191
+      },
+      {
+        "text": " CHT-M",
+        "confidence": 0.999994119056522,
+        "startIndex": 200
+      },
+      {
+        "text": " 56...100",
+        "confidence": 0.9999955760393983,
+        "startIndex": 206
+      },
+      {
+        "text": "Tab.",
+        "confidence": 0.9999971389866005,
+        "startIndex": 217
+      },
+      {
+        "text": " 2.12",
+        "confidence": 0.9997601797415228,
+        "startIndex": 221
+      },
+      {
+        "text": " /",
+        "confidence": 0.9999666225125773,
+        "startIndex": 226
+      },
+      {
+        "text": " Tab.",
+        "confidence": 0.9999969005691014,
+        "startIndex": 228
+      },
+      {
+        "text": " 2.12",
+        "confidence": 0.9999951839843344,
+        "startIndex": 233
+      },
+      {
+        "text": "-1",
+        "confidence": 0.9962614291838182,
+        "startIndex": 244
+      },
+      {
+        "text": "m",
+        "confidence": 0.9999670511319895,
+        "startIndex": 249
+      },
+      {
+        "text": "-",
+        "confidence": 0.9999414716651684,
+        "startIndex": 256
+      },
+      {
+        "text": "2)",
+        "confidence": 0.9999753244662697,
+        "startIndex": 266
+      },
+      {
+        "text": " Condensatore",
+        "confidence": 0.999583422415553,
+        "startIndex": 268
+      },
+      {
+        "text": " ausiliario",
+        "confidence": 0.9994122816324235,
+        "startIndex": 281
+      },
+      {
+        "text": " di",
+        "confidence": 0.9999763971175267,
+        "startIndex": 292
+      },
+      {
+        "text": " avviamento",
+        "confidence": 0.9997325970117595,
+        "startIndex": 295
+      },
+      {
+        "text": " con",
+        "confidence": 0.9999952316511552,
+        "startIndex": 306
+      },
+      {
+        "text": " disgiuntore",
+        "confidence": 0.9986110016047923,
+        "startIndex": 310
+      },
+      {
+        "text": " elettronico:",
+        "confidence": 0.999867222750411,
+        "startIndex": 322
+      },
+      {
+        "text": " a",
+        "confidence": 0.9998896243796895,
+        "startIndex": 335
+      },
+      {
+        "text": " richiesta",
+        "confidence": 0.9990074957746421,
+        "startIndex": 337
+      },
+      {
+        "text": " (vedere",
+        "confidence": 0.9999524981203868,
+        "startIndex": 347
+      },
+      {
+        "text": " \"Esecuzioni",
+        "confidence": 0.899119603070162,
+        "startIndex": 355
+      },
+      {
+        "text": " speciali",
+        "confidence": 0.9999624504845601,
+        "startIndex": 367
+      },
+      {
+        "text": " ...\")",
+        "confidence": 0.9929792845542119,
+        "startIndex": 376
+      },
+      {
+        "text": "#",
+        "confidence": 0.9999995231630692,
+        "startIndex": 384
+      },
+      {
+        "text": " 2.10.",
+        "confidence": 0.9999987681732168,
+        "startIndex": 385
+      },
+      {
+        "text": " Single",
+        "confidence": 0.9999760395072578,
+        "startIndex": 391
+      },
+      {
+        "text": " phase",
+        "confidence": 0.9999966621509202,
+        "startIndex": 398
+      },
+      {
+        "text": " CHT-M",
+        "confidence": 0.9999817615955614,
+        "startIndex": 404
+      },
+      {
+        "text": " 56...100",
+        "confidence": 0.9999989138725052,
+        "startIndex": 410
+      },
+      {
+        "text": "2)",
+        "confidence": 0.9999663845842277,
+        "startIndex": 421
+      },
+      {
+        "text": " Auxiliary",
+        "confidence": 0.9998796688411641,
+        "startIndex": 423
+      },
+      {
+        "text": " starting",
+        "confidence": 0.9999258573209157,
+        "startIndex": 433
+      },
+      {
+        "text": " capacitor",
+        "confidence": 0.9999905825550351,
+        "startIndex": 442
+      },
+      {
+        "text": " with",
+        "confidence": 0.9999991655356624,
+        "startIndex": 452
+      },
+      {
+        "text": " electronic",
+        "confidence": 0.9999375382330494,
+        "startIndex": 457
+      },
+      {
+        "text": " cutout:",
+        "confidence": 0.999852934828482,
+        "startIndex": 468
+      },
+      {
+        "text": " available",
+        "confidence": 0.9999744898630243,
+        "startIndex": 476
+      },
+      {
+        "text": " on",
+        "confidence": 0.9999966621509202,
+        "startIndex": 486
+      },
+      {
+        "text": " request",
+        "confidence": 0.9999811652878874,
+        "startIndex": 489
+      },
+      {
+        "text": " (see",
+        "confidence": 0.9998315273033761,
+        "startIndex": 497
+      },
+      {
+        "text": " \"Special",
+        "confidence": 0.999970542961958,
+        "startIndex": 502
+      },
+      {
+        "text": " mounting",
+        "confidence": 0.9999651921008026,
+        "startIndex": 511
+      },
+      {
+        "text": " types",
+        "confidence": 0.9999711521845835,
+        "startIndex": 520
+      },
+      {
+        "text": " ...\")",
+        "confidence": 0.9991807933933602,
+        "startIndex": 526
+      },
+      {
+        "text": "MOTORI",
+        "confidence": 0.9915268859328499,
+        "startIndex": 534
+      },
+      {
+        "text": " /",
+        "confidence": 0.9997677150562424,
+        "startIndex": 540
+      },
+      {
+        "text": " MOTORS",
+        "confidence": 0.9999812164080638,
+        "startIndex": 542
+      },
+      {
+        "text": " IE1",
+        "confidence": 0.9710800811123763,
+        "startIndex": 549
+      },
+      {
+        "text": "15",
+        "confidence": 0.9999703177676235,
+        "startIndex": 555
+      }
+    ],
+    "averagePageConfidenceScore": 0.9935879268853576,
+    "minimumPageConfidenceScore": 0.7981861947029236
+  },
+  "blocks": [
+    {
+      "topLeftX": 40,
+      "topLeftY": 45,
+      "bottomRightX": 135,
+      "bottomRightY": 60,
+      "content": "CHT / A-G-M",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 530,
+      "topLeftY": 37,
+      "bottomRightX": 676,
+      "bottomRightY": 60,
+      "content": "CHTMOTOR.COM",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 289,
+      "topLeftY": 81,
+      "bottomRightX": 431,
+      "bottomRightY": 103,
+      "content": "# 2 poli / 2 poles",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 120,
+      "bottomRightX": 245,
+      "bottomRightY": 136,
+      "content": "# 2.9. Monofase CHT-M 63...100",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 140,
+      "bottomRightX": 137,
+      "bottomRightY": 152,
+      "content": "Tab. 2.11 / Tab. 2.11",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 153,
+      "bottomRightX": 659,
+      "bottomRightY": 429,
+      "content": "<table><tr><th rowspan=\"2\"></th><th colspan=\"2\">Motore<br/>Motor</th><th>P<sub>N</sub></th><th>n<sub>N</sub></th><th>T<sub>N</sub></th><th>I<sub>N</sub></th><th>cosφ</th><th>η</th><th>I<sub>S</sub>/I<sub>N</sub></th><th>T<sub>S</sub>/T<sub>N</sub></th><th>T<sub>Max</sub>/T<sub>N</sub></th><th>C<br/>(450V)</th><th>C<sup>6</sup><sub>2)</sub></th><th>J</th><th>Peso<br/>Weight<br/>(B3)</th></tr><tr><th colspan=\"2\">CHT-M</th><th>kW</th><th>min<sup>-1</sup></th><th>Nm</th><th>A</th><th>100%</th><th>100%</th><th></th><th></th><th></th><th>μF</th><th>μF</th><th>kg m<sup>2</sup></th><th>Kg</th></tr><tr><td rowspan=\"11\">230 V - 50 Hz</td><td>63 b</td><td>2</td><td>0,18</td><td>2700</td><td>0,64</td><td>1,40</td><td>0,95</td><td>56,0</td><td>4,0</td><td>0,7</td><td>1,7</td><td>10</td><td>10</td><td>0,00032</td><td>4,0</td></tr><tr><td>63 c</td><td>2</td><td>0,25</td><td>2700</td><td>0,88</td><td>1,90</td><td>0,95</td><td>57,0</td><td>4,0</td><td>0,7</td><td>1,7</td><td>12</td><td>10</td><td>0,00041</td><td>4,3</td></tr><tr><td>71 b</td><td>2</td><td>0,37</td><td>2710</td><td>1,30</td><td>2,52</td><td>0,98</td><td>65,1</td><td>3,4</td><td>0,8</td><td>1,9</td><td>20</td><td>20</td><td>0,00065</td><td>6,1</td></tr><tr><td>71 c</td><td>2</td><td>0,55</td><td>2745</td><td>1,91</td><td>3,72</td><td>0,94</td><td>68,3</td><td>3,8</td><td>0,8</td><td>2,0</td><td>25</td><td>20</td><td>0,00075</td><td>7,2</td></tr><tr><td>80 b</td><td>2</td><td>0,75</td><td>2776</td><td>2,58</td><td>4,93</td><td>0,94</td><td>70,7</td><td>4,1</td><td>0,8</td><td>2,1</td><td>30</td><td>40</td><td>0,00110</td><td>10,5</td></tr><tr><td>80 c</td><td>2</td><td>1,1</td><td>2733</td><td>3,84</td><td>6,75</td><td>0,96</td><td>73,5</td><td>4,1</td><td>0,9</td><td>1,9</td><td>40</td><td>40</td><td>0,00140</td><td>11,0</td></tr><tr><td>90 Sb</td><td>2</td><td>1,5</td><td>2749</td><td>5,21</td><td>8,87</td><td>0,98</td><td>74,7</td><td>3,6</td><td>0,9</td><td>1,8</td><td>50</td><td>60</td><td>0,00170</td><td>12,6</td></tr><tr><td>90 Lb</td><td>2</td><td>1,85</td><td>2760</td><td>6,40</td><td>10,9</td><td>0,98</td><td>74,7</td><td>3,9</td><td>0,7</td><td>1,8</td><td>60</td><td>60</td><td>0,00210</td><td>13,1</td></tr><tr><td>90 Lc</td><td>2</td><td>2,2</td><td>2743</td><td>7,66</td><td>12,9</td><td>0,98</td><td>75,3</td><td>3,9</td><td>0,6</td><td>1,9</td><td>70</td><td>85</td><td>0,00240</td><td>14,4</td></tr><tr><td>100 La</td><td>2</td><td>2,2</td><td>2840</td><td>7,40</td><td>12,6</td><td>0,99</td><td>77,0</td><td>5,0</td><td>0,7</td><td>2,0</td><td>90</td><td>85</td><td>0,00250</td><td>20,8</td></tr><tr><td>100 Lb</td><td>2</td><td>3</td><td>2850</td><td>10,1</td><td>16,3</td><td>0,99</td><td>80,4</td><td>5,3</td><td>0,8</td><td>2,1</td><td>90</td><td>85</td><td>0,00270</td><td>22,7</td></tr></table>",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": "tbl-0.html"
+    },
+    {
+      "topLeftX": 366,
+      "topLeftY": 120,
+      "bottomRightX": 582,
+      "bottomRightY": 136,
+      "content": "# 2.9. Single phase CHT-M 63...100",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 467,
+      "bottomRightX": 430,
+      "bottomRightY": 488,
+      "content": "# 4 poli / 4 poles",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 508,
+      "bottomRightX": 252,
+      "bottomRightY": 523,
+      "content": "# 2.10. Monofase CHT-M 56...100",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 529,
+      "bottomRightX": 138,
+      "bottomRightY": 541,
+      "content": "Tab. 2.12 / Tab. 2.12",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 541,
+      "bottomRightX": 659,
+      "bottomRightY": 824,
+      "content": "<table><tr><th rowspan=\"2\"></th><th colspan=\"2\">Motore<br/>Motor</th><th>P<sub>N</sub></th><th>n<sub>N</sub></th><th>T<sub>N</sub></th><th>I<sub>N</sub></th><th>cosφ</th><th>η</th><th>I<sub>S</sub>/I<sub>N</sub></th><th>T<sub>S</sub>/T<sub>N</sub></th><th>T<sub>Max</sub>/T<sub>N</sub></th><th>C<br/>(450V)</th><th>C<sup>6</sup><sub>2)</sub></th><th>J</th><th>Peso<br/>Weight<br/>(B3)</th></tr><tr><th colspan=\"2\">CHT-M</th><th>kW</th><th>min<sup>-1</sup></th><th>Nm</th><th>A</th><th></th><th>%</th><th></th><th></th><th></th><th>μF</th><th>μF</th><th>kg m<sup>2</sup></th><th>Kg</th></tr><tr><td rowspan=\"11\">230 V - 50 Hz</td><td>56 c</td><td>4</td><td>0,09</td><td>1377</td><td>0,62</td><td>0,88</td><td>0,95</td><td>46,9</td><td>2,3</td><td>0,8</td><td>1,7</td><td>6</td><td>10</td><td>0,00020</td><td>3,4</td></tr><tr><td>63 b</td><td>4</td><td>0,12</td><td>1380</td><td>0,83</td><td>1,10</td><td>0,95</td><td>52,0</td><td>2,0</td><td>0,8</td><td>1,7</td><td>6</td><td>10</td><td>0,00036</td><td>3,9</td></tr><tr><td>63 c</td><td>4</td><td>0,18</td><td>1387</td><td>1,24</td><td>1,66</td><td>0,92</td><td>51,6</td><td>2,5</td><td>0,8</td><td>1,8</td><td>12</td><td>10</td><td>0,00044</td><td>4,2</td></tr><tr><td>71 b</td><td>4</td><td>0,25</td><td>1316</td><td>1,81</td><td>2,07</td><td>0,97</td><td>54,0</td><td>2,4</td><td>0,8</td><td>1,8</td><td>16</td><td>16</td><td>0,00081</td><td>6,1</td></tr><tr><td>71 c</td><td>4</td><td>0,37</td><td>1348</td><td>2,62</td><td>2,63</td><td>0,98</td><td>62,6</td><td>2,8</td><td>0,8</td><td>1,7</td><td>20</td><td>16</td><td>0,00103</td><td>7,2</td></tr><tr><td>80 b</td><td>4</td><td>0,55</td><td>1369</td><td>3,84</td><td>4,22</td><td>0,92</td><td>61,6</td><td>2,9</td><td>0,7</td><td>1,7</td><td>25</td><td>20</td><td>0,00180</td><td>11,0</td></tr><tr><td>80 c</td><td>4</td><td>0,75</td><td>1342</td><td>5,34</td><td>4,89</td><td>0,97</td><td>68,7</td><td>3,0</td><td>0,7</td><td>1,7</td><td>35</td><td>30</td><td>0,00210</td><td>11,3</td></tr><tr><td>90 Sb</td><td>4</td><td>1,1</td><td>1349</td><td>7,79</td><td>7,02</td><td>0,95</td><td>71,6</td><td>3,2</td><td>0,6</td><td>1,7</td><td>40</td><td>40</td><td>0,00270</td><td>12,6</td></tr><tr><td>90 Lb</td><td>4</td><td>1,5</td><td>1372</td><td>10,4</td><td>9,22</td><td>0,95</td><td>74,8</td><td>3,7</td><td>0,7</td><td>1,7</td><td>50</td><td>60</td><td>0,00470</td><td>14,4</td></tr><tr><td>100 Lb</td><td>4</td><td>2,2</td><td>1408</td><td>14,9</td><td>12,3</td><td>0,99</td><td>78,5</td><td>4,2</td><td>0,5</td><td>1,9</td><td>70</td><td>85</td><td>0,00670</td><td>19,8</td></tr><tr><td>100 Lc</td><td>4</td><td>3</td><td>1399</td><td>20,5</td><td>16,6</td><td>0,99</td><td>79,4</td><td>4,2</td><td>0,5</td><td>1,8</td><td>90</td><td>85</td><td>0,00810</td><td>22,5</td></tr></table>",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": "tbl-1.html"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 835,
+      "bottomRightX": 353,
+      "bottomRightY": 859,
+      "content": "2) Condensatore ausiliario di avviamento con disgiuntore elettronico: a richiesta (vedere \"Esecuzioni speciali ...\")",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 366,
+      "topLeftY": 508,
+      "bottomRightX": 590,
+      "bottomRightY": 524,
+      "content": "# 2.10. Single phase CHT-M 56...100",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 365,
+      "topLeftY": 835,
+      "bottomRightX": 672,
+      "bottomRightY": 859,
+      "content": "2) Auxiliary starting capacitor with electronic cutout: available on request (see \"Special mounting types ...\")",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 692,
+      "topLeftY": 37,
+      "bottomRightX": 707,
+      "bottomRightY": 167,
+      "content": "MOTORI / MOTORS IE1",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 663,
+      "topLeftY": 976,
+      "bottomRightX": 676,
+      "bottomRightY": 987,
+      "content": "15",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}
